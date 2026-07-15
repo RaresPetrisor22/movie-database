@@ -10,7 +10,7 @@ Command design pattern.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Two operating modes**
   - 👤 **User mode** — browse the movie catalogue, filter movies, and manage a personal watchlist.
@@ -28,7 +28,7 @@ Command design pattern.
 
 ---
 
-## 🏛️ Architecture
+##  Architecture
 
 The application follows a classic **layered architecture**, keeping the user interface, business
 logic, and data access cleanly separated:
@@ -67,7 +67,7 @@ A full UML class diagram is available in [`docs/diagram.md`](docs/diagram.md).
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | | |
 |------------------|-------------------------------------------|
@@ -118,7 +118,7 @@ movie-database/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The domain, persistence, and business layers are validated by an assert-based unit-test suite
 (`tests/tests.cpp`), achieving **100 % line coverage** on those layers (measured with
@@ -143,6 +143,6 @@ OpenCppCoverage.exe ^
 
 ---
 
-## 📜 License
+##  License
 
 This project was created for educational purposes as part of a university course.
