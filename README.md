@@ -141,8 +141,3 @@ OpenCppCoverage.exe ^
   -- MovieDatabase.exe --run-tests
 ```
 
----
-
-##  License
-
-This project was created for educational purposes as part of a university course.
